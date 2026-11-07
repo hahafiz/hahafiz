@@ -1,5 +1,5 @@
 # 💫 About Me:
-I love technology. I love building computers and now  I'm on a long journey of learning to instruct computer to do stuff for me; Starting with React, Tailwind and Node JS.
+I enjoy building computers and now I'm on a long journey of learning to instruct computer to do stuff for me; Starting with React, Tailwind and Node JS.
 
 
 # 💻 Tech Stack:
