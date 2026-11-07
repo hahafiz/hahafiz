@@ -16,6 +16,7 @@ I enjoy building computers and now I'm on a long journey of learning to instruct
 
 
 <!-- cool-readme:start -->
+<!-- Cards by github-cool-readme: https://github.com/pedrocatalao/github-cool-readme -->
 <p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hahafiz/hahafiz/cards/summary-dark.svg">
