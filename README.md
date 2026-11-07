@@ -18,22 +18,22 @@ I enjoy building computers and now I'm on a long journey of learning to instruct
 <!-- cool-readme:start -->
 <p align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pedrocatalao/pedrocatalao/cards/summary-dark.svg">
-  <img src="https://raw.githubusercontent.com/pedrocatalao/pedrocatalao/cards/summary-light.svg" width="400" alt="GitHub stats">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hahafiz/hahafiz/cards/summary-dark.svg">
+  <img src="https://raw.githubusercontent.com/hahafiz/hahafiz/cards/summary-light.svg" width="400" alt="GitHub stats">
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pedrocatalao/pedrocatalao/cards/languages-dark.svg">
-  <img src="https://raw.githubusercontent.com/pedrocatalao/pedrocatalao/cards/languages-light.svg" width="400" alt="Most used languages">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hahafiz/hahafiz/cards/languages-dark.svg">
+  <img src="https://raw.githubusercontent.com/hahafiz/hahafiz/cards/languages-light.svg" width="400" alt="Most used languages">
 </picture>
 </p>
 <p align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pedrocatalao/pedrocatalao/cards/contributions-dark.svg">
-  <img src="https://raw.githubusercontent.com/pedrocatalao/pedrocatalao/cards/contributions-light.svg" width="400" alt="Notable contributions">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hahafiz/hahafiz/cards/contributions-dark.svg">
+  <img src="https://raw.githubusercontent.com/hahafiz/hahafiz/cards/contributions-light.svg" width="400" alt="Notable contributions">
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pedrocatalao/pedrocatalao/cards/weekly-dark.svg">
-  <img src="https://raw.githubusercontent.com/pedrocatalao/pedrocatalao/cards/weekly-light.svg" width="400" alt="Weekly rhythm">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hahafiz/hahafiz/cards/weekly-dark.svg">
+  <img src="https://raw.githubusercontent.com/hahafiz/hahafiz/cards/weekly-light.svg" width="400" alt="Weekly rhythm">
 </picture>
 </p>
 <!-- cool-readme:end -->
