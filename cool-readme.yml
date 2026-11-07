@@ -1,0 +1,9 @@
+# Settings: https://github.com/pedrocatalao/github-cool-readme#settings
+user: hahafiz
+style: oled
+color: theme
+matrix: true
+transparent: true
+include:
+  private: true
+  orgs: true
